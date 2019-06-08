@@ -1,7 +1,7 @@
 ## [JamStack App Landed](https://appseed.us/apps/static/panini/jamstack-landed)
 Designed by HTML5 Up, Coded as [JAMstack App](https://jamstack-landed.appseed.us/) by AppSeed 
 
-![JamStack App Landed coded by AppSeed App Generator](https://static.appseed.us/apps/jamstack-landed/jamstack-landed.jpg)
+![JamStack Landed](https://github.com/app-generator/jamstack-landed/blob/master/screenshots/jamstack-landed.jpg)
 
 ## How to use it
 - Clone this repo `git clone https://github.com/app-generator/jamstack-landed.git`
