@@ -3,18 +3,18 @@
     "email"   : "support@appseed.us",
 
     "links" : {
-        "buy"            : "https://appseed.us/apps/static/panini/jamstack-landed", 
-        "github"         : "https://github.com/rosoftdeveloper/appseed/tree/master/jamstack/landed",
-        "github-jamstack": "https://github.com/jamstack-apps/jamstack",
+        "buy"            : "https://appseed.us/apps/jamstack/html5up-landed", 
+        "github"         : "https://github.com/app-generator/jamstack-landed",
+        "docs"           : "https://docs.appseed.us/apps/html5up/html5up-landed-coded-in-jamstack/",
+        "blog"           : "https://blog.appseed.us/tag/html5up",
         "appseed"        : "https://appseed.us?ref=landed",
         "generator"      : "https://appseed.us/app-generator?ref=landed",
         "facebook"       : "https://facebook.com/webappseed",
         "facebook-group" : "https://www.facebook.com/groups/fullstack.apps.generator/",
         "twitter"        : "https://twitter.com/webappseed",
         "instagram"      : "https://instagram.com/webappseed",
-        "discord"        : "https://discord.gg/fZC6hup",
-        "docs"           : "https://docs.appseed.us",
-        "blog"           : "https://blog.appseed.us"
+        "support"        : "https://appseed.us/support?ref=landed",
+        "discord"        : "https://discord.gg/fZC6hup"
     }, 
 
     "LAST_KEY" : "NA"

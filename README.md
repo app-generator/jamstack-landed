@@ -1,7 +1,14 @@
-## [JamStack App Landed](https://appseed.us/apps/static/panini/jamstack-landed)
-Designed by HTML5 Up, Coded as [JAMstack App](https://jamstack-landed.appseed.us/) by AppSeed 
+# HTML5 Up Landed coded in JAMstack
+Open-Source App coded on top of **HTML5 Up landed design** in **JAMstack** architecture.
 
-![JamStack Landed](https://github.com/app-generator/jamstack-landed/blob/master/screenshots/jamstack-landed.jpg)
+![HTML5 Up Landed design coded in JAMstack](https://raw.githubusercontent.com/app-generator/static/master/html5up-landed/html5up-landed-coded-in-jamstack.jpg)
+
+## App Links
+---
+ - [JAMstack Landed](https://appseed.us/apps/jamstack/html5up-landed) - product page
+ - Live [demo](https://jamstack-landed.appseed.us)
+ - [Documentation](https://docs.appseed.us/apps/html5up/html5up-landed-coded-in-jamstack/)
+ - [HTML5 Up Landed](https://html5up.net/landed) - the original product
 
 ## How to use it
 - Clone this repo `git clone https://github.com/app-generator/jamstack-landed.git`
