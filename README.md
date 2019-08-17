@@ -4,7 +4,7 @@ Open-Source app with **HTML5Up Landed design** coded in **JAMstack** pattern
 
 <br />
 
-![JAMstack Landed - App banner](https://github.com/app-generator/static/blob/master/products/html5up-landed.jpg?raw=true)
+![JAMstack Landed - Gif animated intro](https://github.com/app-generator/static/blob/master/products/jamstack-html5up-landed-intro.gif?raw=true)
 
 <br />
 
