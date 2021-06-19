@@ -46,6 +46,8 @@
         "jquery.counterup": "^2.1.0",
         "scrollreveal": "^3.4.0",
         "slick-carousel": "^1.8.1",
-        "wallop": "^2.4.1"
+        "wallop": "^2.4.1",
+        "graceful-fs":  "4.2.2"
     }
 }
+
